@@ -23,13 +23,13 @@ body{
     right: 250px;
     width: 200px;
     height: 200px;
-    position: absolute;
+    position: static;
 }
 .cld-left{
     left: 250px;
     width: 200px;
     height: 200px;
-    position: absolute;
+    position: static;
 }
 .fb-img{
     width: 20px;
